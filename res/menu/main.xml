@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:id="@+id/group1">
+        <item android:id="@+id/item_message" android:title="@string/message"></item>
+    </group>
+
+</menu>
